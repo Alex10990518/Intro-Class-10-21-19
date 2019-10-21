@@ -9,3 +9,9 @@ I am from Chicago
 I went to Oxy
 
 I went to NYU
+
+Hello
+
+Good morning 
+
+School is Cool
